@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="com.mindtree.runner.TestValues">
+        <methods>
+          <include name="searchPouch"/>
+          <include name="buyMug" invocation-numbers="0"/>
+          <include name="close"/>
+          <include name="searchBook"/>
+          <include name="url"/>
+          <include name="cart"/>
+        </methods>
+      </class> <!-- com.mindtree.runner.TestValues -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

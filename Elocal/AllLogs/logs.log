@@ -1,0 +1,94 @@
+2021-10-21 12:37:06,979 INFO  [main] runner.TestValues:48 - invalid url found
+2021-10-21 12:37:12,448 INFO  [main] runner.TestValues:57 - mug searched
+2021-10-21 12:37:13,087 INFO  [main] runner.TestValues:59 - 3  mugs added
+2021-10-21 12:37:20,783 INFO  [main] runner.TestValues:74 - mobile cover added to cart
+2021-10-21 12:37:27,602 INFO  [main] runner.TestValues:90 - cart shown
+2021-10-21 12:37:32,638 DEBUG [main] freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-21 12:37:32,639 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-21 12:37:32,641 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 12:37:32,644 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 12:37:32,645 DEBUG [main] freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 17:50:04,152 INFO  [main] runner.TestValues:41 - successfully logged into url
+2021-10-21 17:50:09,745 INFO  [main] runner.TestValues:57 - mug searched
+2021-10-21 17:50:10,412 INFO  [main] runner.TestValues:59 - 3  mugs added
+2021-10-21 17:50:18,323 INFO  [main] runner.TestValues:74 - mobile cover added to cart
+2021-10-21 17:50:26,639 INFO  [main] runner.TestValues:90 - cart shown
+2021-10-21 17:50:31,697 DEBUG [main] freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-21 17:50:31,698 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-21 17:50:31,700 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 17:50:31,701 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 17:50:31,702 DEBUG [main] freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 17:53:54,601 INFO  [main] runner.TestValues:41 - successfully logged into url
+2021-10-21 17:53:58,351 INFO  [main] runner.TestValues:57 - mug searched
+2021-10-21 17:53:58,985 INFO  [main] runner.TestValues:59 - 3  mugs added
+2021-10-21 17:54:07,053 INFO  [main] runner.TestValues:74 - mobile cover added to cart
+2021-10-21 17:54:14,254 INFO  [main] runner.TestValues:90 - cart shown
+2021-10-21 17:54:19,286 DEBUG [main] freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-21 17:54:19,287 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-21 17:54:19,289 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 17:54:19,291 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 17:54:19,292 DEBUG [main] freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 18:07:51,251 INFO  [main] runner.TestValues:41 - successfully logged into url
+2021-10-21 18:07:55,814 INFO  [main] runner.TestValues:57 - mug searched
+2021-10-21 18:07:56,497 INFO  [main] runner.TestValues:59 - 3  mugs added
+2021-10-21 18:08:05,867 INFO  [main] runner.TestValues:74 - mobile cover added to cart
+2021-10-21 18:08:14,997 INFO  [main] runner.TestValues:90 - cart shown
+2021-10-21 18:08:20,021 DEBUG [main] freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-21 18:08:20,023 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-21 18:08:20,024 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 18:08:20,026 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 18:08:20,026 DEBUG [main] freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 18:10:28,785 INFO  [main] runner.TestValues:41 - successfully logged into url
+2021-10-21 18:10:33,287 INFO  [main] runner.TestValues:57 - mug searched
+2021-10-21 18:10:33,899 INFO  [main] runner.TestValues:59 - 3  mugs added
+2021-10-21 18:10:59,834 DEBUG [main] freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-21 18:10:59,836 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-21 18:10:59,837 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 18:10:59,839 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 18:10:59,839 DEBUG [main] freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 18:11:15,096 INFO  [main] runner.TestValues:41 - successfully logged into url
+2021-10-21 18:11:19,698 INFO  [main] runner.TestValues:57 - mug searched
+2021-10-21 18:11:20,321 INFO  [main] runner.TestValues:59 - 3  mugs added
+2021-10-21 18:11:28,015 INFO  [main] runner.TestValues:74 - mobile cover added to cart
+2021-10-21 18:11:35,905 INFO  [main] runner.TestValues:90 - cart shown
+2021-10-21 18:11:40,947 DEBUG [main] freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-21 18:11:40,951 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-21 18:11:40,954 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 18:11:40,956 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 18:11:40,957 DEBUG [main] freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-22 12:44:02,151 INFO  [main] runner.TestValues:41 - successfully logged into url
+2021-10-22 12:44:07,273 INFO  [main] runner.TestValues:57 - mug searched
+2021-10-22 12:44:07,930 INFO  [main] runner.TestValues:59 - 3  mugs added
+2021-10-22 12:44:16,391 INFO  [main] runner.TestValues:74 - mobile cover added to cart
+2021-10-22 12:44:25,117 INFO  [main] runner.TestValues:90 - cart shown
+2021-10-22 12:44:30,142 DEBUG [main] freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-22 12:44:30,143 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-22 12:44:30,145 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-22 12:44:30,146 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-22 12:44:30,146 DEBUG [main] freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-22 12:45:27,237 INFO  [main] runner.TestValues:41 - successfully logged into url
+2021-10-22 12:45:31,974 INFO  [main] runner.TestValues:57 - mug searched
+2021-10-22 12:45:32,603 INFO  [main] runner.TestValues:59 - 3  mugs added
+2021-10-22 12:45:41,364 INFO  [main] runner.TestValues:74 - mobile cover added to cart
+2021-10-22 12:45:49,179 INFO  [main] runner.TestValues:90 - cart shown
+2021-10-22 12:45:54,211 DEBUG [main] freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-22 12:45:54,213 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-22 12:45:54,238 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-22 12:45:54,240 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-22 12:45:54,240 DEBUG [main] freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-24 15:43:25,885 INFO  [main] runner.TestValues:41 - successfully logged into url
+2021-10-24 15:43:30,813 INFO  [main] runner.TestValues:57 - mug searched
+2021-10-24 15:43:31,477 INFO  [main] runner.TestValues:59 - 3  mugs added
+2021-10-24 15:43:40,150 INFO  [main] runner.TestValues:74 - mobile cover added to cart
+2021-10-24 15:43:47,056 INFO  [main] runner.TestValues:90 - cart shown
+2021-10-24 15:43:52,113 DEBUG [main] freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-24 15:43:52,115 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-24 15:43:52,116 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-24 15:43:52,118 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-24 15:43:52,118 DEBUG [main] freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-24 16:19:13,419 INFO  [main] runner.TestValues:41 - successfully logged into url
+2021-10-24 16:19:19,023 DEBUG [main] freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-24 16:19:19,025 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-24 16:19:19,026 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-24 16:19:19,027 DEBUG [main] freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-24 16:19:19,028 DEBUG [main] freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
